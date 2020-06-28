@@ -8,11 +8,13 @@ LBugnion@Microsoft.com
 
 > [This topic was published here](http://azurewordsoftheday.cloud/topic/serverless/serverless).
 
+## Short description
+
+Serverless is a way to execute code without having to manage infrastructure.
+
 ## Phonetics
 
 ˈsɜːvəlɛs
-
-![Phonetics image](images/serverless/Serverless.png)
 
 ## Notes
 
